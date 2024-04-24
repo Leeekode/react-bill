@@ -1,0 +1,47 @@
+{
+    "ka":[
+        {
+            "type":"pay",
+            "money":-99,
+            "date":"2022-10-24 10:36:42",
+            "useFor":"drinks",
+            "id":1
+        },
+        {
+            "type":"income",
+            "money":2000,
+            "date":"2022-01-03 05:09:42",
+            "useFor":"bonus",
+            "id":2
+        },
+        {
+            "type":"pay",
+            "money":-25,
+            "date":"2022-12-03 15:09:42",
+            "useFor":"longdistance",
+            "id":3
+        },
+        {
+            "type":"pay",
+            "money":-80,
+            "date":"2022-08-03 02:09:42",
+            "useFor":"drinks",
+            "id":4
+        },
+        {
+            "type":"pay",
+            "money":-42,
+            "date":"2022-09-17 03:09:54",
+            "useFor":"desert",
+            "id":5
+        },
+        {
+            "type":"pay",
+            "money":-120,
+            "date":"2022-12-05 20:09:42",
+            "useFor":"longdistance",
+            "id":6
+        }
+
+    ]
+}
